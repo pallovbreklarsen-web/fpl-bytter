@@ -1,11 +1,11 @@
 # FPL-anbefaling – Pål
 
-GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 21:57
+GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 22:01
 
 - **Beste bytte:** João Pedro → N.Jackson (+26,0 EP over 5 runder)
 - **Kaptein:** Gabriel (12,4 EP (x2) · NEW(B))
 - **Bank:** £0,5m (salgspris = dagens pris)
-- **Gratisbytter:** 4 (estimert fra historikk)
+- **Gratisbytter:** 3 (estimert fra historikk)
 
 
 ## Anbefalte bytter

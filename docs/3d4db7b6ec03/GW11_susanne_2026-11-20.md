@@ -1,6 +1,6 @@
 # FPL-anbefaling – Susanne
 
-GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 21:57
+GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 22:01
 
 - **Beste bytte:** Gvardiol → Gabriel (+15,6 EP over 5 runder)
 - **Kaptein:** N.Jackson (13,1 EP (x2) · SUN(H))
