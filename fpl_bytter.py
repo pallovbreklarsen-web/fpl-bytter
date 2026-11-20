@@ -308,7 +308,7 @@ def estimate_free(hist, M):
             continue
         used = r.get("event_transfers", 0)
         if chips.get(ev) in ("wildcard", "freehit"):
-            ft = min(5, ft + 1)
+            ft = ft
         else:
             ft = min(5, max(ft - used, 0) + 1)
     return ft
