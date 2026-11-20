@@ -290,7 +290,10 @@ def load_squad(src, cfg, M):
         if pend:
             free = max(0, estimate_free(src.get(f"history_{lab}", f"entry/{tid}/history/", optional=True), M) - len(pend))
         note = (note + " " if note else "") + "Gratisbytter er estimert fra historikken."
-    return dict(ids=ids, bank=bank / 10, note=note, gw=gw, free=free)
+    hist = src.get(f"history_{lab}", f"entry/{tid}/history/", optional=True) or {}
+    chips_used = [f"{c['name']} (GW{c['event']})" for c in hist.get("chips", [])]
+    val = picks.get("entry_history", {}).get("value", 0) / 10 if not pend else 0
+    return dict(ids=ids, bank=bank / 10, note=note, gw=gw, free=free, value=val, chips_used=chips_used)
 
 
 def estimate_free(hist, M):
@@ -512,6 +515,7 @@ def build_report(M, squad, cfg):
                 B.append(("p", h))
         else:
             B.append(("p", "Ingen dobbelt- eller blankrunder de neste 8 rundene, så ingen tydelige chip-vinduer akkurat nå."))
+        B.extend(chip_sections(M, squad, S))
     else:
         B.append(("p", "Ingen team_id i config.json: lagspesifikke deler er hoppet over."))
 
@@ -696,6 +700,136 @@ def to_html(B):
     close()
     h.append("</div></body></html>")
     return "\n".join(h)
+
+
+# ---------- Wildcard / Free Hit ----------
+SQUAD_SHAPE = {1: 2, 2: 5, 3: 5, 4: 3}
+XI_MAX = {1: 1, 2: 5, 3: 5, 4: 3}
+
+
+def pick_xi(players, key):
+    """Beste startellever (1 GK, min 3 DEF, 2 MID, 1 FWD) for en 15-manns tropp. Returnerer (poeng, xi, benk, kaptein)."""
+    by = {pos: sorted([p for p in players if p["pos"] == pos], key=lambda p: -p[key]) for pos in POS}
+    xi = [by[1][0]] + by[2][:3] + by[3][:2] + by[4][:1]
+    cnt = {2: 3, 3: 2, 4: 1}
+    rest = sorted(by[2][3:] + by[3][2:] + by[4][1:], key=lambda p: -p[key])
+    for p in rest:
+        if len(xi) == 11:
+            break
+        if cnt[p["pos"]] < XI_MAX[p["pos"]]:
+            xi.append(p)
+            cnt[p["pos"]] += 1
+    ids = {id(p) for p in xi}
+    bench = [p for p in players if id(p) not in ids]
+    cap = max(xi, key=lambda p: p[key])
+    score = sum(p[key] for p in xi) + cap[key] + 0.15 * sum(max(p[key], 0) for p in bench)
+    return score, xi, bench, cap
+
+
+def optimise_squad(M, budget, key, seeds, iters=20000):
+    import random
+    rnd = random.Random(7)
+    pool_all = [p for p in M.players.values() if p["status"] not in ("u", "n")]
+    pool = {}
+    for pos in POS:
+        ps = [p for p in pool_all if p["pos"] == pos]
+        good = [p for p in ps if p["avail"] >= 0.75 and p["share"] >= 0.3]
+        pick = sorted(good, key=lambda p: -p[key])[:45] + sorted(good, key=lambda p: -p[key] / max(p["price"], 3.9))[:25]
+        pick += sorted(ps, key=lambda p: p["price"])[:10]
+        pool[pos] = list({p["id"]: p for p in pick}.values())
+
+    def feasible(sq):
+        if sum(p["price"] for p in sq) > budget + 1e-9:
+            return False
+        c = {}
+        for p in sq:
+            c[p["team"]] = c.get(p["team"], 0) + 1
+            if c[p["team"]] > 3:
+                return False
+        return True
+
+    def cheapest():
+        sq, cnt = [], {}
+        for pos, n in SQUAD_SHAPE.items():
+            for p in sorted(pool[pos], key=lambda p: p["price"]):
+                if sum(1 for q in sq if q["pos"] == pos) >= n:
+                    break
+                if cnt.get(p["team"], 0) < 3:
+                    sq.append(p)
+                    cnt[p["team"]] = cnt.get(p["team"], 0) + 1
+        return sq
+
+    best = None
+    starts = [cheapest()] + [s for s in seeds if s]
+    for start in starts:
+        sq = list(start)
+        if not feasible(sq):
+            continue
+        cur = pick_xi(sq, key)[0]
+        for _ in range(iters):
+            i = rnd.randrange(len(sq))
+            c = rnd.choice(pool[sq[i]["pos"]])
+            if any(c["id"] == q["id"] for q in sq):
+                continue
+            cand = list(sq)
+            cand[i] = c
+            if not feasible(cand):
+                if rnd.random() < 0.6:
+                    continue
+                j = rnd.randrange(len(sq))
+                if j == i:
+                    continue
+                d = rnd.choice(pool[cand[j]["pos"]])
+                if any(d["id"] == q["id"] for q in cand):
+                    continue
+                cand[j] = d
+                if not feasible(cand):
+                    continue
+            s = pick_xi(cand, key)[0]
+            if s > cur + 1e-9:
+                sq, cur = cand, s
+        if best is None or cur > best[0]:
+            best = (cur, sq)
+    return best
+
+
+def chip_sections(M, squad, S):
+    B = [("h2", "Wildcard og Free Hit")]
+    ids = squad["ids"]
+    cur_ids = set(ids)
+    if squad.get("value"):
+        budget = squad["value"] + squad["bank"]
+    else:
+        budget = sum(M.players[i]["price"] for i in ids) + squad["bank"]
+    used = squad.get("chips_used") or []
+    B.append(("p", f"Budsjett: £{f1(budget)}m (lagverdi + bank). Chips brukt så langt: "
+                   f"{', '.join(used) if used else 'ingen registrert'}. Sjekk i appen hvilke chips du har igjen."))
+    for title, key, label, text in (
+        ("Wildcard-lag", "ep5", f"EP {len(M.gws)} r.", f"Beste lag for de neste {len(M.gws)} rundene"),
+        ("Free Hit-lag", "ep1", "EP neste", f"Beste lag for kun GW{M.target} (Free Hit gjelder én runde)"),
+    ):
+        cur_score = pick_xi(S, key)[0]
+        res = optimise_squad(M, budget, key, [S], iters=20000)
+        if not res:
+            continue
+        score, sq = res
+        _, xi, bench, cap = pick_xi(sq, key)
+        changes = len(set(p["id"] for p in sq) - cur_ids)
+        gain = score - cur_score
+        B.append(("h3", title))
+        B.append(("callout", f"{text}. Forventet {f1(score)} EP mot {f1(cur_score)} for dagens lag: "
+                             f"{f1(gain).replace('-', '-') if gain < 0 else '+' + f1(gain)} EP, {changes} spillere byttes."))
+        rows = []
+        order = {1: 0, 2: 1, 3: 2, 4: 3}
+        for role, group in (("Start", xi), ("Benk", bench)):
+            for p in sorted(group, key=lambda p: (order[p["pos"]], -p[key])):
+                nm = name_cell(p)
+                if p is cap and role == "Start":
+                    nm = H(p["name"] + " (C)", f'<b>{esc(p["name"])}</b> <span class="flag">C</span>')
+                rows.append([role, nm, pos_cell(p["pos"]), M.tname(p["team"]), f1(p["price"]), f1(p[key]), fx_cell(p)])
+        B.append(table(["Rolle", "Spiller", "Pos", "Lag", "£", label, "Neste kamper"], rows))
+    B.append(("p", "Laget er et regnestykke, ikke en garanti: sjekk skader og pressekonferanser før du bruker en chip."))
+    return B
 
 
 def notify(cfg, text):
