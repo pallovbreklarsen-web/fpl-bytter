@@ -1,6 +1,6 @@
 # FPL-anbefaling – Pål
 
-GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 21:52
+GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 21:57
 
 - **Beste bytte:** João Pedro → N.Jackson (+26,0 EP over 5 runder)
 - **Kaptein:** Gabriel (12,4 EP (x2) · NEW(B))
@@ -48,6 +48,59 @@ Beste to bytter samlet: João Pedro → N.Jackson og Akpom → Barry. Netto 51,7
 ## Chip-vinduer
 
 Ingen dobbelt- eller blankrunder de neste 8 rundene, så ingen tydelige chip-vinduer akkurat nå.
+
+
+## Wildcard og Free Hit
+
+Budsjett: £101,8m (lagverdi + bank). Chips brukt så langt: wildcard (GW3). Sjekk i appen hvilke chips du har igjen.
+
+
+### Wildcard-lag
+
+Beste lag for de neste 5 rundene. Forventet 327,1 EP mot 237,7 for dagens lag: +89,3 EP, 13 spillere byttes.
+
+| Rolle | Spiller | Pos | Lag | £ | EP 5 r. | Neste kamper |
+|---|---|---|---|---|---|---|
+| Start | Trafford | GK | LEE | 5,0 | 24,7 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
+| Start | Gabriel | DEF | ARS | 8,1 | 27,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Start | Van Hecke | DEF | TOT | 5,1 | 26,4 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
+| Start | Konsa | DEF | ARS | 4,9 | 25,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Start | De Cuyper | DEF | BHA | 5,5 | 22,6 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Start | Hill | DEF | BOU | 5,6 | 21,9 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Start | E.Le Fée | MID | SUN | 5,7 | 25,0 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
+| Start | Tavernier | MID | BOU | 6,7 | 25,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Start | N.Jackson (C) | FWD | AVL | 7,2 | 30,0 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
+| Start | Barry | FWD | EVE | 5,7 | 28,9 | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
+| Start | Evanilson | FWD | BOU | 6,5 | 27,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Benk | Raya | GK | ARS | 6,2 | 22,1 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Benk | Enciso | MID | IPS | 5,5 | 21,8 | TOT(B) AVL(H) COV(B) LEE(B) NEW(H) |
+| Benk | Groß | MID | BHA | 6,3 | 21,7 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Benk | McGinn | MID | AVL | 5,5 | 21,4 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
+
+
+### Free Hit-lag
+
+Beste lag for kun GW11 (Free Hit gjelder én runde). Forventet 74,3 EP mot 53,3 for dagens lag: +21,0 EP, 13 spillere byttes.
+
+| Rolle | Spiller | Pos | Lag | £ | EP neste | Neste kamper |
+|---|---|---|---|---|---|---|
+| Start | Trafford | GK | LEE | 5,0 | 5,3 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
+| Start | Van Hecke | DEF | TOT | 5,1 | 6,4 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
+| Start | Gabriel | DEF | ARS | 8,1 | 6,2 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Start | Konsa | DEF | ARS | 4,9 | 5,7 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Start | De Cuyper | DEF | BHA | 5,5 | 5,3 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Start | Hill | DEF | BOU | 5,6 | 5,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Start | Tavernier | MID | BOU | 6,7 | 5,9 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Start | E.Le Fée | MID | SUN | 5,7 | 5,5 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
+| Start | N.Jackson (C) | FWD | AVL | 7,2 | 6,5 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
+| Start | Barry | FWD | EVE | 5,7 | 6,5 | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
+| Start | Evanilson | FWD | BOU | 6,5 | 6,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Benk | Verbruggen | GK | BHA | 4,7 | 4,8 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Benk | Ødegaard | MID | ARS | 6,7 | 5,0 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Benk | Groß | MID | BHA | 6,3 | 5,0 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Benk | Wirtz | MID | LIV | 7,2 | 4,8 | MUN(H) EVE(B) SUN(H) CHE(B) LEE(H) |
+
+Laget er et regnestykke, ikke en garanti: sjekk skader og pressekonferanser før du bruker en chip.
 
 
 ## Mest verdi per posisjon
