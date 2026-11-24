@@ -1,10 +1,10 @@
 # FPL-anbefaling – Susanne
 
-GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2026 22:01
+GW12 · frist fre 27.11. kl. 18:30 · horisont GW12–GW16 · oppdatert 24.11.2026 17:18
 
-- **Beste bytte:** Gvardiol → Gabriel (+15,6 EP over 5 runder)
-- **Kaptein:** N.Jackson (13,1 EP (x2) · SUN(H))
-- **Bank:** £4,9m (salgspris = dagens pris)
+- **Beste bytte:** Gvardiol → Hill (+12,3 EP over 5 runder)
+- **Kaptein:** Evanilson (12,4 EP (x2) · FUL(B))
+- **Bank:** £6,0m (salgspris = dagens pris)
 - **Gratisbytter:** 1 (estimert fra historikk)
 
 
@@ -12,37 +12,37 @@ GW11 · frist lør 21.11. kl. 11:00 · horisont GW11–GW15 · oppdatert 20.11.2
 
 | Bytte | Pos | Pris | Gevinst neste | Gevinst 5 r. | Nye spillers kamper |
 |---|---|---|---|---|---|
-| Gvardiol → Gabriel | DEF | 5,6 → 8,1 | +3,5 | +15,6 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Gvardiol → Van Hecke | DEF | 5,6 → 5,1 | +3,6 | +14,7 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Tarkowski → Gabriel | DEF | 6,2 → 8,1 | +3,0 | +13,0 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Hall → Gabriel | DEF | 5,2 → 8,1 | +3,3 | +12,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Tarkowski → Van Hecke | DEF | 6,2 → 5,1 | +3,1 | +12,0 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Hall → Van Hecke | DEF | 5,2 → 5,1 | +3,4 | +11,4 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Calafiori → Gabriel | DEF | 5,9 → 8,1 | +2,1 | +9,2 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Calafiori → Van Hecke | DEF | 5,9 → 5,1 | +2,3 | +8,3 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
+| Gvardiol → Hill | DEF | 5,5 → 5,6 | +3,1 | +12,3 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Hall → Hill | DEF | 5,2 → 5,6 | +3,4 | +12,0 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Gvardiol → Silva | DEF | 5,5 → 5,1 | +2,7 | +10,2 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Hall → Silva | DEF | 5,2 → 5,1 | +2,9 | +9,9 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Mbeumo → Wirtz | MID | 7,8 → 7,4 | +2,2 | +9,6 | EVE(B) SUN(H) CHE(B) LEE(H) TOT(H) |
+| Mbeumo → E.Le Fée | MID | 7,8 → 5,7 | +2,0 | +8,5 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Cherki → Wirtz | MID | 7,8 → 7,4 | +2,0 | +8,3 | EVE(B) SUN(H) CHE(B) LEE(H) TOT(H) |
+| Cherki → E.Le Fée | MID | 7,8 → 5,7 | +1,8 | +7,1 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
 
-Beste to bytter samlet: Gvardiol → Gabriel og Tarkowski → Van Hecke. Netto 23,6 EP (inkl. -4 for ekstra bytte).
+Beste to bytter samlet: Gvardiol → Hill og Mbeumo → Wirtz. Netto 17,9 EP (inkl. -4 for ekstra bytte).
 
 
 ## Svakeste ledd i laget
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Flagg | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Gvardiol | DEF | MCI | 5,6 | 2,7 | 11,7 | 2,09 | 20,8% | 1,0 | overpresterer | FUL(H) ARS(B) LEE(H) BRE(B) CHE(H) |
-| Tarkowski | DEF | EVE | 6,2 | 3,2 | 14,4 | 2,32 | 19,0% | 3,3 | overpresterer | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
-| Hall | DEF | NEW | 5,2 | 2,9 | 15,0 | 2,88 | 17,5% | 3,7 | overpresterer | ARS(H) BHA(B) MUN(H) SUN(H) IPS(B) |
-| Cherki | MID | MCI | 7,9 | 3,9 | 17,0 | 2,15 | 33,6% | 3,3 | overpresterer | FUL(H) ARS(B) LEE(H) BRE(B) CHE(H) |
-| Mbeumo | MID | MUN | 7,9 | 3,7 | 18,0 | 2,28 | 18,4% | 1,7 | - | LIV(B) BRE(H) NEW(B) COV(H) CRY(B) |
-| Calafiori | DEF | ARS | 5,9 | 4,1 | 18,1 | 3,07 | 48,7% | 4,3 | overpresterer | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
+| Gvardiol | DEF | MCI | 5,5 | 2,2 | 11,1 | 2,01 | 19,5% | 1,0 | overpresterer | ARS(B) LEE(H) BRE(B) CHE(H) HUL(H) |
+| Hall | DEF | NEW | 5,2 | 2,0 | 11,3 | 2,18 | 16,2% | 2,3 | tvil/skade | BHA(B) MUN(H) SUN(H) IPS(B) BRE(B) |
+| Mbeumo | MID | MUN | 7,8 | 3,6 | 16,7 | 2,14 | 17,5% | 1,3 | - | BRE(H) NEW(B) COV(H) CRY(B) ARS(B) |
+| Calafiori | DEF | ARS | 5,9 | 3,7 | 17,9 | 3,03 | 48,3% | 4,3 | overpresterer | MCI(H) BRE(B) TOT(B) BOU(H) MUN(H) |
+| Cherki | MID | MCI | 7,8 | 3,8 | 18,1 | 2,32 | 31,8% | 3,7 | overpresterer | ARS(B) LEE(H) BRE(B) CHE(H) HUL(H) |
+| Rogers | MID | CHE | 8,3 | 4,5 | 20,5 | 2,47 | 54,6% | 5,3 | - | NFO(B) CRY(H) LIV(H) MCI(B) AVL(H) |
 
 
 ## Kaptein
 
 | Spiller | EP neste (x2) | Neste kamper |
 |---|---|---|
-| N.Jackson | 13,1 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Evanilson | 12,6 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Tavernier | 11,8 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Evanilson | 12,4 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Van Hecke | 11,8 | SUN(B) FUL(H) ARS(H) HUL(B) LIV(B) |
+| Tavernier | 11,1 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
 
 
 ## Chip-vinduer
@@ -52,53 +52,53 @@ Ingen dobbelt- eller blankrunder de neste 8 rundene, så ingen tydelige chip-vin
 
 ## Wildcard og Free Hit
 
-Budsjett: £107,0m (lagverdi + bank). Chips brukt så langt: bboost (GW1), wildcard (GW4), 3xc (GW7), freehit (GW9). Sjekk i appen hvilke chips du har igjen.
+Budsjett: £108,6m (lagverdi + bank). Chips brukt så langt: bboost (GW1), wildcard (GW4), 3xc (GW7), freehit (GW9). Sjekk i appen hvilke chips du har igjen.
 
 
 ### Wildcard-lag
 
-Beste lag for de neste 5 rundene. Forventet 327,4 EP mot 281,4 for dagens lag: +46,0 EP, 9 spillere byttes.
+Beste lag for de neste 5 rundene. Forventet 313,8 EP mot 284,7 for dagens lag: +29,1 EP, 9 spillere byttes.
 
 | Rolle | Spiller | Pos | Lag | £ | EP 5 r. | Neste kamper |
 |---|---|---|---|---|---|---|
-| Start | Trafford | GK | LEE | 5,0 | 24,7 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
-| Start | Gabriel | DEF | ARS | 8,1 | 27,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Start | Van Hecke | DEF | TOT | 5,1 | 26,4 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Start | Konsa | DEF | ARS | 4,9 | 25,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Start | De Cuyper | DEF | BHA | 5,5 | 22,6 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
-| Start | E.Le Fée | MID | SUN | 5,7 | 25,0 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
-| Start | Tavernier | MID | BOU | 6,7 | 25,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Start | Ødegaard | MID | ARS | 6,7 | 22,3 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Start | N.Jackson (C) | FWD | AVL | 7,2 | 30,0 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Start | Barry | FWD | EVE | 5,7 | 28,9 | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
-| Start | Evanilson | FWD | BOU | 6,5 | 27,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Benk | Verbruggen | GK | BHA | 4,7 | 21,1 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
-| Benk | Hill | DEF | BOU | 5,6 | 21,9 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Benk | Enciso | MID | IPS | 5,5 | 21,8 | TOT(B) AVL(H) COV(B) LEE(B) NEW(H) |
-| Benk | Groß | MID | BHA | 6,3 | 21,7 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
+| Start | Tzolakis | GK | HUL | 4,7 | 21,9 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Start | Van Hecke | DEF | TOT | 5,2 | 24,7 | SUN(B) FUL(H) ARS(H) HUL(B) LIV(B) |
+| Start | Hill | DEF | BOU | 5,6 | 23,3 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | De Cuyper | DEF | BHA | 5,5 | 22,5 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Start | Wirtz | MID | LIV | 7,4 | 26,4 | EVE(B) SUN(H) CHE(B) LEE(H) TOT(H) |
+| Start | E.Le Fée | MID | SUN | 5,7 | 25,2 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Start | Tavernier | MID | BOU | 6,8 | 24,5 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | Groß | MID | BHA | 6,3 | 23,3 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Start | Barry (C) | FWD | EVE | 5,7 | 28,2 | LIV(H) AVL(B) FUL(H) BHA(B) NFO(B) |
+| Start | Evanilson | FWD | BOU | 6,6 | 27,4 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | McBurnie | FWD | HUL | 5,5 | 25,6 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Benk | Roefs | GK | SUN | 4,8 | 21,6 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Benk | Bogle | DEF | LEE | 4,8 | 20,4 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Benk | Vuskovic | DEF | BHA | 5,3 | 20,0 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Benk | Ødegaard | MID | ARS | 6,7 | 22,9 | MCI(H) BRE(B) TOT(B) BOU(H) MUN(H) |
 
 
 ### Free Hit-lag
 
-Beste lag for kun GW11 (Free Hit gjelder én runde). Forventet 74,3 EP mot 63,5 for dagens lag: +10,7 EP, 10 spillere byttes.
+Beste lag for kun GW12 (Free Hit gjelder én runde). Forventet 70,8 EP mot 63,5 for dagens lag: +7,3 EP, 9 spillere byttes.
 
 | Rolle | Spiller | Pos | Lag | £ | EP neste | Neste kamper |
 |---|---|---|---|---|---|---|
-| Start | Trafford | GK | LEE | 5,0 | 5,3 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
-| Start | Van Hecke | DEF | TOT | 5,1 | 6,4 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Start | Gabriel | DEF | ARS | 8,1 | 6,2 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Start | Konsa | DEF | ARS | 4,9 | 5,7 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Start | De Cuyper | DEF | BHA | 5,5 | 5,3 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
-| Start | Hill | DEF | BOU | 5,6 | 5,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Start | Tavernier | MID | BOU | 6,7 | 5,9 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Start | E.Le Fée | MID | SUN | 5,7 | 5,5 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
-| Start | N.Jackson (C) | FWD | AVL | 7,2 | 6,5 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Start | Barry | FWD | EVE | 5,7 | 6,5 | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
-| Start | Evanilson | FWD | BOU | 6,5 | 6,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Benk | Raya | GK | ARS | 6,2 | 5,0 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| Benk | Groß | MID | BHA | 6,3 | 5,0 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
-| Benk | Wirtz | MID | LIV | 7,2 | 4,8 | MUN(H) EVE(B) SUN(H) CHE(B) LEE(H) |
-| Benk | Enciso | MID | IPS | 5,5 | 4,7 | TOT(B) AVL(H) COV(B) LEE(B) NEW(H) |
+| Start | Trafford | GK | LEE | 5,1 | 5,0 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Start | Van Hecke | DEF | TOT | 5,2 | 5,9 | SUN(B) FUL(H) ARS(H) HUL(B) LIV(B) |
+| Start | Hill | DEF | BOU | 5,6 | 5,4 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | De Cuyper | DEF | BHA | 5,5 | 5,0 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Start | Wirtz | MID | LIV | 7,4 | 5,8 | EVE(B) SUN(H) CHE(B) LEE(H) TOT(H) |
+| Start | E.Le Fée | MID | SUN | 5,7 | 5,6 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Start | Tavernier | MID | BOU | 6,8 | 5,6 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | Groß | MID | BHA | 6,3 | 5,2 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Start | Evanilson (C) | FWD | BOU | 6,6 | 6,2 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Start | Barry | FWD | EVE | 5,7 | 6,2 | LIV(H) AVL(B) FUL(H) BHA(B) NFO(B) |
+| Start | McBurnie | FWD | HUL | 5,5 | 5,8 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Benk | Tzolakis | GK | HUL | 4,7 | 5,0 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Benk | Bogle | DEF | LEE | 4,8 | 5,0 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Benk | Justin | DEF | LEE | 4,5 | 4,7 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Benk | Ødegaard | MID | ARS | 6,7 | 4,8 | MCI(H) BRE(B) TOT(B) BOU(H) MUN(H) |
 
 Laget er et regnestykke, ikke en garanti: sjekk skader og pressekonferanser før du bruker en chip.
 
@@ -110,58 +110,58 @@ Laget er et regnestykke, ikke en garanti: sjekk skader og pressekonferanser før
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|
-| Barry | FWD | EVE | 5,7 | 6,5 | 28,9 | 5,06 | 11,3% | 9,0 | BRE(B) LIV(H) AVL(B) FUL(H) BHA(B) |
-| N.Jackson | FWD | AVL | 7,2 | 6,5 | 30,0 | 4,16 | 34,1% | 11,0 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Evanilson | FWD | BOU | 6,5 | 6,3 | 27,0 | 4,15 | 25,2% | 8,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| McBurnie | FWD | HUL | 5,5 | 4,7 | 21,9 | 3,98 | 1,7% | 7,3 | BHA(H) CRY(B) NFO(H) BOU(B) TOT(H) |
-| Delap | FWD | NFO | 5,3 | 4,1 | 18,6 | 3,51 | 1,7% | 5,7 | BOU(B) CHE(H) HUL(B) BHA(H) SUN(B) |
+| Barry | FWD | EVE | 5,7 | 6,2 | 28,2 | 4,95 | 11,4% | 9,0 | LIV(H) AVL(B) FUL(H) BHA(B) NFO(B) |
+| McBurnie | FWD | HUL | 5,5 | 5,8 | 25,6 | 4,65 | 2,0% | 9,0 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Evanilson | FWD | BOU | 6,6 | 6,2 | 27,4 | 4,15 | 27,3% | 8,0 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Calvert-Lewin | FWD | LEE | 6,0 | 5,0 | 21,1 | 3,51 | 17,2% | 4,3 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Delap | FWD | NFO | 5,3 | 3,9 | 18,2 | 3,44 | 1,8% | 5,3 | CHE(H) HUL(B) BHA(H) SUN(B) EVE(H) |
 
 
 ### Midtbane
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|
-| E.Le Fée | MID | SUN | 5,7 | 5,5 | 25,0 | 4,39 | 3,0% | 7,3 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
-| Enciso | MID | IPS | 5,5 | 4,7 | 21,8 | 3,97 | 1,1% | 6,3 | TOT(B) AVL(H) COV(B) LEE(B) NEW(H) |
-| McGinn | MID | AVL | 5,5 | 4,7 | 21,4 | 3,90 | 4,5% | 5,3 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Iroegbunam | MID | HUL | 5,0 | 4,1 | 19,1 | 3,81 | 0,1% | 6,3 | BHA(H) CRY(B) NFO(H) BOU(B) TOT(H) |
-| Tavernier | MID | BOU | 6,7 | 5,9 | 25,0 | 3,73 | 32,1% | 5,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| E.Le Fée | MID | SUN | 5,7 | 5,6 | 25,2 | 4,42 | 3,1% | 7,3 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Rudoni | MID | COV | 5,0 | 4,8 | 22,0 | 4,40 | 1,8% | 7,0 | LEE(B) IPS(H) MUN(B) AVL(H) BOU(B) |
+| Lewis-Potter | MID | BRE | 5,5 | 4,8 | 21,3 | 3,88 | 1,8% | 6,7 | MUN(B) ARS(H) MCI(H) FUL(B) NEW(H) |
+| Alysson | MID | AVL | 4,9 | 4,3 | 18,9 | 3,86 | 0,6% | 7,0 | IPS(B) EVE(H) CRY(H) COV(B) CHE(B) |
+| Groß | MID | BHA | 6,3 | 5,2 | 23,3 | 3,70 | 49,5% | 5,3 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
 
 
 ### Forsvar
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|
-| Van Hecke | DEF | TOT | 5,1 | 6,4 | 26,4 | 5,17 | 16,8% | 8,7 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Konsa | DEF | ARS | 4,9 | 5,7 | 25,3 | 5,16 | 25,4% | 10,7 | NEW(B) MCI(H) BRE(B) TOT(B) BOU(H) |
-| O'Nien | DEF | SUN | 3,9 | 3,8 | 17,5 | 4,50 | 2,5% | 6,0 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
-| Justin | DEF | LEE | 4,5 | 4,0 | 19,6 | 4,35 | 2,5% | 5,7 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
-| Silva | DEF | BOU | 5,1 | 5,2 | 21,6 | 4,24 | 3,8% | 6,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
+| Van Hecke | DEF | TOT | 5,2 | 5,9 | 24,7 | 4,74 | 19,3% | 8,3 | SUN(B) FUL(H) ARS(H) HUL(B) LIV(B) |
+| Justin | DEF | LEE | 4,5 | 4,7 | 19,2 | 4,26 | 2,6% | 5,0 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Bogle | DEF | LEE | 4,8 | 5,0 | 20,4 | 4,25 | 11,9% | 4,0 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| O'Nien | DEF | SUN | 3,9 | 3,7 | 16,5 | 4,22 | 2,5% | 5,0 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Hill | DEF | BOU | 5,6 | 5,4 | 23,3 | 4,17 | 4,4% | 8,0 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
 
 
 ### Keeper
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|
-| Trafford | GK | LEE | 5,0 | 5,3 | 24,7 | 4,94 | 6,6% | 7,3 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
-| Kinsky | GK | TOT | 4,4 | 4,7 | 19,9 | 4,53 | 15,8% | 5,7 | IPS(H) SUN(B) FUL(H) ARS(H) HUL(B) |
-| Verbruggen | GK | BHA | 4,7 | 4,8 | 21,1 | 4,50 | 24,2% | 6,3 | HUL(B) NEW(H) BOU(B) NFO(B) EVE(H) |
-| Petrović | GK | BOU | 4,5 | 4,3 | 18,4 | 4,08 | 3,2% | 5,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| Roefs | GK | SUN | 4,8 | 4,2 | 19,1 | 3,98 | 1,9% | 6,3 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
+| Tzolakis | GK | HUL | 4,7 | 5,0 | 21,9 | 4,65 | 13,6% | 5,7 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| Roefs | GK | SUN | 4,8 | 4,8 | 21,6 | 4,50 | 2,1% | 7,0 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Verbruggen | GK | BHA | 4,7 | 4,7 | 21,0 | 4,47 | 24,7% | 6,3 | NEW(H) BOU(B) NFO(B) EVE(H) IPS(H) |
+| Kinsky | GK | TOT | 4,4 | 4,4 | 18,7 | 4,26 | 16,2% | 5,0 | SUN(B) FUL(H) ARS(H) HUL(B) LIV(B) |
+| Trafford | GK | LEE | 5,1 | 5,0 | 21,4 | 4,19 | 7,8% | 4,7 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
 
 
 ## Differensialer (eid under 10 %)
 
 | Spiller | Pos | Lag | £ | EP neste | EP 5 r. | EP/£ | Eid | Form | Neste kamper |
 |---|---|---|---|---|---|---|---|---|---|
-| E.Le Fée | MID | SUN | 5,7 | 5,5 | 25,0 | 4,39 | 3,0% | 7,3 | AVL(B) TOT(H) LIV(B) NEW(B) NFO(H) |
-| Trafford | GK | LEE | 5,0 | 5,3 | 24,7 | 4,94 | 6,6% | 7,3 | CHE(B) COV(H) MCI(B) IPS(H) LIV(B) |
-| Hill | DEF | BOU | 5,6 | 5,3 | 21,9 | 3,91 | 3,3% | 7,0 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| McBurnie | FWD | HUL | 5,5 | 4,7 | 21,9 | 3,98 | 1,7% | 7,3 | BHA(H) CRY(B) NFO(H) BOU(B) TOT(H) |
-| Enciso | MID | IPS | 5,5 | 4,7 | 21,8 | 3,97 | 1,1% | 6,3 | TOT(B) AVL(H) COV(B) LEE(B) NEW(H) |
-| Silva | DEF | BOU | 5,1 | 5,2 | 21,6 | 4,24 | 3,8% | 6,3 | NFO(H) FUL(B) BHA(H) HUL(H) ARS(B) |
-| McGinn | MID | AVL | 5,5 | 4,7 | 21,4 | 3,90 | 4,5% | 5,3 | SUN(H) IPS(B) EVE(H) CRY(H) COV(B) |
-| Wirtz | MID | LIV | 7,2 | 4,8 | 21,3 | 2,95 | 6,5% | 7,0 | MUN(H) EVE(B) SUN(H) CHE(B) LEE(H) |
+| Wirtz | MID | LIV | 7,4 | 5,8 | 26,4 | 3,56 | 9,8% | 9,7 | EVE(B) SUN(H) CHE(B) LEE(H) TOT(H) |
+| McBurnie | FWD | HUL | 5,5 | 5,8 | 25,6 | 4,65 | 2,0% | 9,0 | CRY(B) NFO(H) BOU(B) TOT(H) MCI(B) |
+| E.Le Fée | MID | SUN | 5,7 | 5,6 | 25,2 | 4,42 | 3,1% | 7,3 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Hill | DEF | BOU | 5,6 | 5,4 | 23,3 | 4,17 | 4,4% | 8,0 | FUL(B) BHA(H) HUL(H) ARS(B) COV(H) |
+| Rudoni | MID | COV | 5,0 | 4,8 | 22,0 | 4,40 | 1,8% | 7,0 | LEE(B) IPS(H) MUN(B) AVL(H) BOU(B) |
+| Roefs | GK | SUN | 4,8 | 4,8 | 21,6 | 4,50 | 2,1% | 7,0 | TOT(H) LIV(B) NEW(B) NFO(H) CRY(H) |
+| Trafford | GK | LEE | 5,1 | 5,0 | 21,4 | 4,19 | 7,8% | 4,7 | COV(H) MCI(B) IPS(H) LIV(B) FUL(H) |
+| Lewis-Potter | MID | BRE | 5,5 | 4,8 | 21,3 | 3,88 | 1,8% | 6,7 | MUN(B) ARS(H) MCI(H) FUL(B) NEW(H) |
 
 
 ## Over- og underpresterere
@@ -173,34 +173,34 @@ Poeng så langt minus det xG/xA/xGC tilsier. Høy verdi = har hatt flaks (selg-r
 
 | Spiller | Pos | Lag | £ | Poeng | Forventet | Differanse |
 |---|---|---|---|---|---|---|
-| Vuskovic | DEF | BHA | 5,3 | 70 | 36,9 | +33,1 |
-| De Cuyper | DEF | BHA | 5,5 | 75 | 45,9 | +29,1 |
-| Tarkowski | DEF | EVE | 6,2 | 56 | 33,0 | +23,0 |
-| Konsa | DEF | ARS | 4,9 | 57 | 35,1 | +21,9 |
-| Muharemović | DEF | LEE | 5,1 | 56 | 34,2 | +21,8 |
-| Cherki | MID | MCI | 7,9 | 54 | 33,5 | +20,5 |
+| Vuskovic | DEF | BHA | 5,3 | 70 | 39,1 | +30,9 |
+| De Cuyper | DEF | BHA | 5,5 | 76 | 49,4 | +26,6 |
+| Belloumi | MID | HUL | 5,2 | 55 | 34,2 | +20,8 |
+| Konsa | DEF | ARS | 4,9 | 58 | 37,4 | +20,6 |
+| Cherki | MID | MCI | 7,8 | 55 | 34,5 | +20,5 |
+| Muharemović | DEF | LEE | 5,1 | 58 | 37,8 | +20,2 |
 
 
 ### Underpresterer (kjøp-kandidat)
 
 | Spiller | Pos | Lag | £ | Poeng | Forventet | Differanse |
 |---|---|---|---|---|---|---|
-| Gonzalo | FWD | FUL | 5,8 | 24 | 37,8 | -13,8 |
-| Sels | GK | NFO | 5,0 | 23 | 36,4 | -13,4 |
-| Thiago | FWD | BRE | 7,8 | 30 | 41,6 | -11,6 |
-| Lammens | GK | MUN | 4,8 | 21 | 32,5 | -11,5 |
-| Muñoz | DEF | NFO | 5,2 | 17 | 28,1 | -11,1 |
-| Wissa | FWD | NEW | 5,9 | 22 | 33,0 | -11,0 |
+| Sels | GK | NFO | 5,0 | 25 | 38,6 | -13,6 |
+| Gonzalo | FWD | FUL | 5,8 | 25 | 38,4 | -13,4 |
+| Muñoz | DEF | NFO | 5,2 | 17 | 29,3 | -12,3 |
+| Thiago | FWD | BRE | 7,8 | 30 | 41,7 | -11,7 |
+| Lammens | GK | MUN | 4,8 | 23 | 34,3 | -11,3 |
+| Martinez | DEF | MUN | 4,8 | 9 | 19,6 | -10,6 |
 
 
 ## Hva har lønnet seg i sesongen
 
 | Pos | Snittpris topp 15 | Snittpoeng topp 15 | Poeng per £m | Best poeng/£m |
 |---|---|---|---|---|
-| FWD | 7,1 | 44 | 6,2 | Barry (9,6) |
-| MID | 6,8 | 51 | 7,4 | Groß (11,1) |
-| DEF | 5,3 | 55 | 10,3 | De Cuyper (13,6) |
-| GK | 5,0 | 40 | 8,0 | Verbruggen (12,1) |
+| FWD | 7,1 | 48 | 6,7 | Evanilson (10,2) |
+| MID | 6,6 | 56 | 8,4 | Groß (11,7) |
+| DEF | 5,5 | 58 | 10,6 | De Cuyper (13,8) |
+| GK | 5,0 | 44 | 8,9 | Verbruggen (12,6) |
 
 Høyt poeng/£m betyr at posisjonen gir mest igjen for pengene. Bruk det til å bestemme hvor du legger dyre spillere og hvor du sparer.
 
